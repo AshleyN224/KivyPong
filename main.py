@@ -11,7 +11,7 @@ class PongGame(Widget):
 class PongBall(Widget):
     # velocity of the ball on x and y axis
     velocity_x = NumericProperty(0)
-    volocity_y = NumericProperty(0)
+    velocity_y = NumericProperty(0)
 
     #referencelist property so we can use ball.velocy as
     # a shortand, just like e.g. w.pos for w.x and w.y
