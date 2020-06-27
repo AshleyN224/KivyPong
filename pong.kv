@@ -1,6 +1,13 @@
 #:kivy 1.11.1 # kivy version - check the version by running kivy_version_checker module
                 # most up-to-date kivy version as of June 6th, 2020
 
+<PongBall>:
+    size: 50, ,50
+    canvas:
+        Ellipse:
+            pos: self.pos
+            size: self.size
+            
 <PongGame>:    
     canvas:
         Rectangle:
@@ -18,3 +25,6 @@
         center_x: root.width * 3 / 4
         top: root.top - 50
         text: "0"
+
+    PongBall:
+        center: self.parent.center
