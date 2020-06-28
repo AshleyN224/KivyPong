@@ -26,7 +26,7 @@ This classic game of Pong is created in Python with the Kivy Framework to create
 ## Installation
 
 ### Clone
-To clone use: https://github.com/AshleyN224/KivyPong.git
+To clone use: [clone link](https://github.com/AshleyN224/KivyPong.git)
 
 ### Setup
 
