@@ -1,3 +1,7 @@
+### TO DO
+### Fix behavior when ball hits paddle from the side.
+### Fix problem with moving the paddle.
+
 # IMPORTS
 from kivy.app import App
 from kivy.uix.widget import Widget
