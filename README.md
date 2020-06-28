@@ -8,7 +8,7 @@ This classic game of Pong is created in Python with the Kivy Framework to create
 <!-- insert badges-->
 
 <!-- insert GIF-->
-![Pong Demo](<div style="width:100%;height:0;padding-bottom:79%;position:relative;"><iframe src="https://giphy.com/embed/UopnIZxyqr5RYL1leC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UopnIZxyqr5RYL1leC">via GIPHY</a></p>)
+[Pong Demo](<div style="width:100%;height:0;padding-bottom:79%;position:relative;"><iframe src="https://giphy.com/embed/UopnIZxyqr5RYL1leC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UopnIZxyqr5RYL1leC">via GIPHY</a></p>)
 
 ## Table of Contents
 
