@@ -1,20 +1,22 @@
-# Kivy version - check the version by running kivy_version_checker module
-# Most up-to-date version as of June 6, 2020
 #:kivy 1.11.1
+# Kivy version - chech Kivy version using kivy_version_checker module.
+# Make sure you're using the most up-to-date version of Kivy.
 
 <PongBall>:
-    size: 50, 50
+    size: 50, 50 
     canvas:
         Ellipse:
             pos: self.pos
-            size: self.size
+            size: self.size          
 
-<PongGame>:   
+<PongGame>:
+    ball: pong_ball
+    
     canvas:
         Rectangle:
             pos: self.center_x - 5, 0
             size: 10, self.height
-            
+    
     Label:
         font_size: 70  
         center_x: root.width / 4
@@ -26,7 +28,7 @@
         center_x: root.width * 3 / 4
         top: root.top - 50
         text: "0"
-
+    
     PongBall:
         id: pong_ball
         center: self.parent.center
