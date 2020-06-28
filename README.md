@@ -42,7 +42,7 @@ Ashley Newsome
 ## FAQ
 
 ## Support
-This code was developing following a tutorial by Kivy. Refer to the following link for more support:
+This code was developed following a tutorial by Kivy. Refer to the following link for more support:
 https://kivy.org/doc/stable/tutorials/pong.html
 
 ## License
